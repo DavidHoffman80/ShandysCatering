@@ -1,0 +1,19 @@
+{
+  "name": "shandyscatering",
+  "version": "1.0.0",
+  "description": "Simple static site for a local catering company",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidHoffman80/ShandysCatering.git"
+  },
+  "author": "Dave Hoffman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidHoffman80/ShandysCatering/issues"
+  },
+  "homepage": "https://github.com/DavidHoffman80/ShandysCatering#readme"
+}
