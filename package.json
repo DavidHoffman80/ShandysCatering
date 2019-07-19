@@ -4,7 +4,7 @@
   "description": "Simple static site for a local catering company",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DavidHoffman80/ShandysCatering/issues"
   },
-  "homepage": "https://github.com/DavidHoffman80/ShandysCatering#readme"
+  "homepage": "https://DavidHoffman80.github.io/ShandysCatering",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
